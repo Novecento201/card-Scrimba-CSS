@@ -1,3 +1,3 @@
 # Scrimba CSS Project
 
-<img src="./img/">
+<img src="./img/card.PNG">
